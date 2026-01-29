@@ -1,1 +1,1 @@
-screenshots folder
+screenshots pages
